@@ -1,0 +1,18 @@
+<div>
+    <h3 class="p-lg-4 custom-align-title" style="text-align: center;font-weight: 700;">
+      <div>About Us</div>
+     </h3>
+     <div class="row pt-sm-0">
+       <div class="col-sm animate__bounceInLeft" style="object-fit: cover;">
+        <img style="width: 100%;height: 100%;" src="https://dummyimage.com/600x400/000/fff" alt="" srcset="">
+       </div>
+       <div class="col-sm animate__bounceInRight">
+        <div class="h5" style="width: 100;">
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate iusto assumenda quas quis commodi voluptatum quos provident quod aspernatur aliquam vitae, dolorum suscipit nulla eum cumque a ex at temporibus?
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi incidunt vero voluptatum veritatis quaerat, porro quae ipsam reprehenderit dignissimos molestias mollitia labore eos ut autem dolore hic delectus enim distinctio!
+          </p>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate iusto assumenda quas quis commodi voluptatum quos provident quod aspernatur aliquam v</p>
+        </div>
+       </div>
+     </div>   
+  </div>
